@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987387d9-08ed-4ab4-8e1d-70f8a92c6040" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../assignment5_webdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment5_webdata.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/assignment6_facebook_network-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/assignment6_facebook_network-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment6_facebook_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment6_facebook_network.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,20 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hack_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -281,12 +273,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554903357646</updated>
-      <workItem from="1554903360722" duration="6414000" />
+      <workItem from="1554903360722" duration="8300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6414000" />
+    <option name="totallyTimeSpent" value="8300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
@@ -303,7 +295,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,17 +311,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hack_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

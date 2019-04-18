@@ -1,0 +1,1322 @@
+1555069411005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a6JEaq2XxPRF"
+1555069411550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555069411551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555069411551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555069413309	Marionette	INFO	Listening on port 33375
+1555069413333	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10503, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10503, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555069416279	Marionette	INFO	Stopped listening on port 33375
+1555069422254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JnfJn5F74rpJ"
+1555069422622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555069422623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555069422623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555069424009	Marionette	INFO	Listening on port 35364
+1555069424066	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555069670519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3pafpXOLqA7E"
+1555069670892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555069670893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555069670893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555069672307	Marionette	INFO	Listening on port 38250
+1555069672345	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555069693262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.psB2Y41LCqIR"
+1555069693677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555069693677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555069693677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555069695264	Marionette	INFO	Listening on port 40172
+1555069695285	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555069992420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fhwz40bGLdrt"
+1555069992956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555069992956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555069992956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555069994873	Marionette	INFO	Listening on port 34581
+1555069994932	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555070061939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7jcarGtmkY3s"
+1555070062592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555070062592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555070062592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555070064607	Marionette	INFO	Listening on port 34841
+1555070064649	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555070262573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.itTLCZI6DKQ0"
+1555070263271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555070263271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555070263271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555070266394	Marionette	INFO	Listening on port 40277
+1555070266535	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12936, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10781, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12936, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12936, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555070284770	Marionette	INFO	Stopped listening on port 38250
+1555070284776	Marionette	INFO	Stopped listening on port 40172
+1555070284852	Marionette	INFO	Stopped listening on port 34581
+1555070284889	Marionette	INFO	Stopped listening on port 35364
+1555070284945	Marionette	INFO	Stopped listening on port 34841
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555070284995	Marionette	INFO	Stopped listening on port 40277
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555070477679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EgNDKGe5icuA"
+1555070478286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555070478286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555070478286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555070480268	Marionette	INFO	Listening on port 34966
+1555070480300	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555070628753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.78M9gV2D6M0C"
+1555070629160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555070629160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555070629161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555070630603	Marionette	INFO	Listening on port 34317
+1555070630660	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555070914903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3oIzUFkrwniT"
+1555070915330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555070915330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555070915330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555070916887	Marionette	INFO	Listening on port 41822
+1555070916938	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071024274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m2qxpTl3gA2p"
+1555071024801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071024801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071024802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071026528	Marionette	INFO	Listening on port 44101
+1555071026596	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071071604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DIla7Wagy0ZU"
+1555071072049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071072050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071072050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071073707	Marionette	INFO	Listening on port 34943
+1555071073726	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555071424501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3JJsyCDWY4kV"
+1555071425027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071425028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071425028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071426927	Marionette	INFO	Listening on port 36090
+1555071427025	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1555071438275	Marionette	INFO	Stopped listening on port 41822
+[Parent 15917, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555071438357	Marionette	INFO	Stopped listening on port 34943
+1555071438398	Marionette	INFO	Stopped listening on port 44101
+1555071438589	Marionette	INFO	Stopped listening on port 34317
+1555071438669	Marionette	INFO	Stopped listening on port 36090
+1555071438703	Marionette	INFO	Stopped listening on port 34966
+1555071440512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mVI0CNMLv46n"
+1555071440937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071440937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071440937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071442476	Marionette	INFO	Listening on port 44935
+1555071442524	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071483762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wMzbjyneVtYG"
+1555071484886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071484886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071484886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071486318	Marionette	INFO	Listening on port 43823
+1555071486375	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071666629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NN4vsgC8GYuG"
+1555071666996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071666997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071666997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071668501	Marionette	INFO	Listening on port 39290
+1555071668543	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071690205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yrCYBU12DQMm"
+1555071690596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071690597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071690597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071691997	Marionette	INFO	Listening on port 35945
+1555071692014	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071772399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E27HMz197EWL"
+1555071773076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071773076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071773076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071775057	Marionette	INFO	Listening on port 40982
+1555071775136	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071825379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nQGKhrg32bNX"
+1555071825944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071825944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071825944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071828066	Marionette	INFO	Listening on port 41988
+1555071828107	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071870650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mow2a20jf3ae"
+1555071871093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071871094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071871094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071873986	Marionette	INFO	Listening on port 34252
+1555071874077	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555071942713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nAR0deIiwgAT"
+1555071943390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555071943390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555071943391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555071945740	Marionette	INFO	Listening on port 45686
+1555071945838	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18701, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18301, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17237, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555071966161	Marionette	INFO	Stopped listening on port 45686
+1555071966184	Marionette	INFO	Stopped listening on port 41988
+1555071966243	Marionette	INFO	Stopped listening on port 35945
+1555071966255	Marionette	INFO	Stopped listening on port 44935
+1555071966260	Marionette	INFO	Stopped listening on port 39290
+1555071966264	Marionette	INFO	Stopped listening on port 40982
+1555071966268	Marionette	INFO	Stopped listening on port 34252
+1555071966403	Marionette	INFO	Stopped listening on port 43823
+1555074486212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DJxhbVqygiIH"
+1555074486815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555074486816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555074486816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555074490981	Marionette	INFO	Listening on port 43593
+1555074491031	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555074547669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Bbtk1Dc9F2iV"
+1555074548029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555074548029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555074548029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555074549493	Marionette	INFO	Listening on port 44048
+1555074549574	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555087205458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UplAB9LUIETv"
+1555087205904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555087205904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555087205904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555087207785	Marionette	INFO	Listening on port 33635
+1555087207869	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555087598002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gpUQkFWmjEi7"
+1555087598603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555087598604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555087598604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555087600190	Marionette	INFO	Listening on port 43441
+1555087600223	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555087727566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DaOumYbaa2ju"
+1555087727954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555087727955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555087727955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555087729466	Marionette	INFO	Listening on port 37514
+1555087729486	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555087760852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WtE3I8ty0Uwj"
+1555087761305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555087761305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555087761305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555087762889	Marionette	INFO	Listening on port 35028
+1555087762979	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 23533, MediaPlayback #2] WARNING: Decoder=7efd0050c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 23533, MediaPlayback #2] WARNING: Decoder=7efd0050c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+1555087813580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fIVXUQ6CHc8D"
+1555087814013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555087814013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555087814013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555087815583	Marionette	INFO	Listening on port 35123
+1555087815603	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555088076568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8pMT5KXsOncS"
+1555088077173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555088077173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555088077173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555088082090	Marionette	INFO	Listening on port 45982
+1555088082195	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 23128, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23128, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24271, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24271, Gecko_IOThread] WARNING: pipe error (126): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 23866, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 23866, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23709, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23709, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23709, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20199, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555088121130	Marionette	INFO	Stopped listening on port 37514
+1555088121159	Marionette	INFO	Stopped listening on port 35028
+1555088121304	Marionette	INFO	Stopped listening on port 35123
+[Parent 20508, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555088121312	Marionette	INFO	Stopped listening on port 45982
+1555088121446	Marionette	INFO	Stopped listening on port 43441
+1555088121459	Marionette	INFO	Stopped listening on port 43593
+1555088121464	Marionette	INFO	Stopped listening on port 44048
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555088121489	Marionette	INFO	Stopped listening on port 33635
+1555088204281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kj7n21bBgxsb"
+1555088204786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555088204787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555088204787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555088206525	Marionette	INFO	Listening on port 36994
+1555088206597	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 24894, MediaPlayback #2] WARNING: Decoder=7fdeec55b800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 24894, MediaPlayback #2] WARNING: Decoder=7fdeec55b800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 24894, MediaPlayback #2] WARNING: Decoder=7fded7709400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 24894, MediaPlayback #2] WARNING: Decoder=7fded7709400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+1555088550638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xjlYXitFMFd6"
+1555088551013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555088551013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555088551014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555088552477	Marionette	INFO	Listening on port 35489
+1555088552556	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 25546, MediaPlayback #1] WARNING: Decoder=7f2b8403cc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 25546, MediaPlayback #1] WARNING: Decoder=7f2b8403cc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 25546, MediaPlayback #1] WARNING: Decoder=7f2b8dad3c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 25546, MediaPlayback #1] WARNING: Decoder=7f2b8dad3c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+1555088604385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vJSEMP2qQdmV"
+1555088604774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555088604774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555088604774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555088606336	Marionette	INFO	Listening on port 36036
+1555088606413	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 25723, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25723, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25394, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555088641522	Marionette	INFO	Stopped listening on port 35489
+1555088641572	Marionette	INFO	Stopped listening on port 36994
+1555088641577	Marionette	INFO	Stopped listening on port 36036
+1555088855661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DKUaUYLF7YCM"
+1555088856258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555088856258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555088856258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555088858019	Marionette	INFO	Listening on port 38906
+1555088858079	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555088887298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jg4q8Sog61zJ"
+1555088887827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555088887831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555088887834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555088889821	Marionette	INFO	Listening on port 45291
+1555088889925	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 26862, MediaPlayback #2] WARNING: Decoder=7fe4d8504800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 26862, MediaPlayback #2] WARNING: Decoder=7fe4d8504800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 26862, MediaPlayback #1] WARNING: Decoder=7fe4d28dc800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 26862, MediaPlayback #1] WARNING: Decoder=7fe4d28dc800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 26862, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 26383, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26708, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26383, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26383, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26708, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555088921764	Marionette	INFO	Stopped listening on port 38906
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555088921865	Marionette	INFO	Stopped listening on port 45291
+1555089285667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UfTbEKplxdci"
+1555089286236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555089286236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555089286236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555089288045	Marionette	INFO	Listening on port 32798
+1555089288094	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555089387289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TwHYiJ47qdTH"
+1555089387701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555089387702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555089387702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555089389156	Marionette	INFO	Listening on port 46390
+1555089389203	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 28287, MediaPlayback #1] WARNING: Decoder=7f13d0dad400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 28287, MediaPlayback #1] WARNING: Decoder=7f13d0dad400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555089652436	Marionette	INFO	Stopped listening on port 46390
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555089652491	Marionette	INFO	Stopped listening on port 32798
+1555091794172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uNQwOX97ijBu"
+1555091794842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555091794843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555091794843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555091796669	Marionette	INFO	Listening on port 45813
+1555091796688	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555091904569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gSNFFtwuqxSq"
+1555091905134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555091905134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555091905135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555091906855	Marionette	INFO	Listening on port 34024
+1555091906893	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555091927253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZGtE39soloZT"
+1555091927738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555091927738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555091927739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555091929296	Marionette	INFO	Listening on port 35410
+1555091929378	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555092145291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SqoeE8jn13wZ"
+1555092145900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555092145900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555092145900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555092147639	Marionette	INFO	Listening on port 39455
+1555092147712	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555092349589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HzsCSLCTWFPW"
+1555092350203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555092350203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555092350203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555092354885	Marionette	INFO	Listening on port 41502
+1555092354972	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555092479584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uXHZcIJBm1LU"
+1555092480212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555092480212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555092480213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555092482044	Marionette	INFO	Listening on port 43908
+1555092482143	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555092583746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4nTOMlpj2JYW"
+1555092584389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555092584390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555092584390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555092586362	Marionette	INFO	Listening on port 39543
+1555092586401	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555092607073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CjPJwATXhr6a"
+1555092607682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555092607682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555092607683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555092610178	Marionette	INFO	Listening on port 46625
+1555092610358	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555092644242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ermy3IrTGWl7"
+1555092647632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555092647633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555092647633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555092649638	Marionette	INFO	Listening on port 44673
+1555092649724	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555093192592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5rKAo0Kh7LLy"
+1555093193270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555093193271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555093193271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555093198085	Marionette	INFO	Listening on port 46312
+1555093198153	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555093231120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b6f1C5Nbq7id"
+1555093231622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555093231622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555093231622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555093233388	Marionette	INFO	Listening on port 37618
+1555093233430	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555095046556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jk5wcmM4oYev"
+1555095047127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555095047128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555095047128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555095051651	Marionette	INFO	Listening on port 36668
+1555095051761	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+console.error: BroadcastService: 
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+console.error: BroadcastService: 
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+console.error: BroadcastService: 
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555095412474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2XAf78szGJIc"
+1555095413118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555095413120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555095413120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555095414969	Marionette	INFO	Listening on port 40507
+1555095414996	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555095441576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2skttHdNDedZ"
+1555095442106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555095442106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555095442106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555095444179	Marionette	INFO	Listening on port 33418
+1555095444248	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555095474520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YCuPvoTFwRIO"
+1555095477834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555095477834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555095477834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555095482662	Marionette	INFO	Listening on port 34734
+1555095482756	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 6978, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6978, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555095634315	Marionette	INFO	Stopped listening on port 33418
+1555095634410	Marionette	INFO	Stopped listening on port 34734
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555095634781	Marionette	INFO	Stopped listening on port 36668
+1555095634800	Marionette	INFO	Stopped listening on port 40507
+1555095635087	Marionette	INFO	Stopped listening on port 37618
+1555095635547	Marionette	INFO	Stopped listening on port 46312
+1555095636700	Marionette	INFO	Stopped listening on port 41502
+1555095636829	Marionette	INFO	Stopped listening on port 35410
+1555095637015	Marionette	INFO	Stopped listening on port 34024
+1555095637040	Marionette	INFO	Stopped listening on port 43908
+1555095637048	Marionette	INFO	Stopped listening on port 39543
+1555095637307	Marionette	INFO	Stopped listening on port 45813
+[Parent 32436, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555095637409	Marionette	INFO	Stopped listening on port 44673
+1555095637513	Marionette	INFO	Stopped listening on port 46625
+1555095637753	Marionette	INFO	Stopped listening on port 39455
+1555095911541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wzlPUZIQCJZM"
+1555095912039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555095912039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555095912039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555095913610	Marionette	INFO	Listening on port 37175
+1555095913656	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555096252816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oVSJIbzCD4bo"
+1555096253259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096253259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096253259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096254840	Marionette	INFO	Listening on port 35378
+1555096254921	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555096273434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P6EKGgzSlPTy"
+1555096273859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096273859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096273859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096277590	Marionette	INFO	Listening on port 33224
+1555096277648	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Parent 8388, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8388, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7775, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7775, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555096286061	Marionette	INFO	Stopped listening on port 37175
+1555096286115	Marionette	INFO	Stopped listening on port 35378
+1555096287035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VUCvd49gauWC"
+1555096287423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096287423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096287423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096288883	Marionette	INFO	Listening on port 42380
+1555096288956	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555096384065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g31osyJby3jG"
+1555096384493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096384494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096384494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096385960	Marionette	INFO	Listening on port 35526
+1555096386003	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555096730198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tANunoDETorv"
+1555096730915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096730915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096730915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096732649	Marionette	INFO	Listening on port 34050
+1555096732727	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555096763534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K89mhvobFFsP"
+1555096763936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096763936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096763936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096765470	Marionette	INFO	Listening on port 46005
+1555096765555	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555096833032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8G3vauvOjHcr"
+1555096833465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555096833466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555096833466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555096835034	Marionette	INFO	Listening on port 39707
+1555096835050	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097066756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cdwBWREvt6Ez"
+1555097067249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097067249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097067249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097071564	Marionette	INFO	Listening on port 41045
+1555097071584	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097116041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gFUQV9jm3jFH"
+1555097116460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097116460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097116460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097118204	Marionette	INFO	Listening on port 42589
+1555097119018	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097147294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d39Nf8FA67Rs"
+1555097150349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097150349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097150350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097152051	Marionette	INFO	Listening on port 40531
+1555097152115	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097186467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4R7HW0iT3IwB"
+1555097186939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097186940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097186940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097188885	Marionette	INFO	Listening on port 40127
+1555097188900	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097302508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yG9lnDP7raZn"
+1555097304077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097304077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097304077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097306145	Marionette	INFO	Listening on port 33181
+1555097306254	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 12190, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555097350599	Marionette	INFO	Stopped listening on port 46005
+1555097350710	Marionette	INFO	Stopped listening on port 40127
+1555097350759	Marionette	INFO	Stopped listening on port 39707
+1555097350878	Marionette	INFO	Stopped listening on port 33181
+1555097351075	Marionette	INFO	Stopped listening on port 40531
+1555097351402	Marionette	INFO	Stopped listening on port 34050
+1555097351537	Marionette	INFO	Stopped listening on port 42589
+1555097351707	Marionette	INFO	Stopped listening on port 41045
+1555097351937	Marionette	INFO	Stopped listening on port 35526
+1555097351943	Marionette	INFO	Stopped listening on port 42380
+1555097353048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NadPQ1wrUJiF"
+1555097353519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097353519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097353519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097355464	Marionette	INFO	Listening on port 38697
+1555097355556	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097529899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hutebo2WmWYB"
+1555097530378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097530378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097530379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097531919	Marionette	INFO	Listening on port 39877
+1555097532016	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097639773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h9FHVpzug5mO"
+1555097640111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097640112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097640112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097641608	Marionette	INFO	Listening on port 39988
+1555097641694	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097670322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.grqvNqJiTGvg"
+1555097670696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097670697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097670697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097672169	Marionette	INFO	Listening on port 38001
+1555097672234	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097739226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XfF7Z8B9qNLY"
+1555097739655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097739656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097739656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097743897	Marionette	INFO	Listening on port 42567
+1555097743948	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097897039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xb5uQNZnzgRm"
+1555097897426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097897426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097897427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097898768	Marionette	INFO	Listening on port 41202
+1555097898849	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555097925820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rMEC0wT7c4bp"
+1555097926204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555097926205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555097926205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555097927822	Marionette	INFO	Listening on port 44845
+1555097927843	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098009812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sGDlwwHo98aR"
+1555098010398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098010399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098010399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098012534	Marionette	INFO	Listening on port 38261
+1555098012634	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098111790	Marionette	INFO	Stopped listening on port 38261
+1555098111899	Marionette	INFO	Stopped listening on port 39988
+1555098111924	Marionette	INFO	Stopped listening on port 42567
+1555098111939	Marionette	INFO	Stopped listening on port 39877
+1555098111988	Marionette	INFO	Stopped listening on port 38001
+1555098111994	Marionette	INFO	Stopped listening on port 38697
+1555098111998	Marionette	INFO	Stopped listening on port 44845
+1555098112001	Marionette	INFO	Stopped listening on port 41202
+1555098299084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DLrH6NvhphLQ"
+1555098299600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098299600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098299601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098301374	Marionette	INFO	Listening on port 43362
+1555098301393	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098555873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ye2bxjmwEiNz"
+1555098556311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098556312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098556312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098558008	Marionette	INFO	Listening on port 34123
+1555098558088	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098750127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XUFI7Aa9dBaR"
+1555098750701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098750702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098750702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098752416	Marionette	INFO	Listening on port 44538
+1555098752439	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098793016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l43V2e9yU0Dk"
+1555098793442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098793442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098793443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098794956	Marionette	INFO	Listening on port 32884
+1555098795033	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098841531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vXUbjxmm1vFe"
+1555098842092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098842092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098842093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098843716	Marionette	INFO	Listening on port 35311
+1555098843759	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098896154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wixdoy7nmFGO"
+1555098896578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098896578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098896578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555098898032	Marionette	INFO	Listening on port 35763
+1555098898071	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555098999162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ymf3NUHApMv2"
+1555098999668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555098999669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555098999669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099001255	Marionette	INFO	Listening on port 43153
+1555099001290	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1555099046907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2peIcf1bMtrK"
+1555099050124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099050124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099050124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099051801	Marionette	INFO	Listening on port 41250
+1555099051856	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 18544, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555099095184	Marionette	INFO	Stopped listening on port 43153
+1555099095280	Marionette	INFO	Stopped listening on port 34123
+[Parent 17148, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555099095409	Marionette	INFO	Stopped listening on port 35763
+1555099095491	Marionette	INFO	Stopped listening on port 43362
+1555099095502	Marionette	INFO	Stopped listening on port 41250
+1555099095658	Marionette	INFO	Stopped listening on port 44538
+1555099095765	Marionette	INFO	Stopped listening on port 35311
+1555099095883	Marionette	INFO	Stopped listening on port 32884
+1555099132593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AEJdu3EDJXoW"
+1555099133024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099133024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099133024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099134539	Marionette	INFO	Listening on port 33580
+1555099134603	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099164782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hYkgYhD8dxE4"
+1555099165225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099165225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099165225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099166893	Marionette	INFO	Listening on port 41728
+1555099167020	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099191496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dgZBwjswOdtO"
+1555099191918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099191918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099191918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099193593	Marionette	INFO	Listening on port 33281
+1555099193613	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 19936, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555099514969	Marionette	INFO	Stopped listening on port 41728
+1555099514993	Marionette	INFO	Stopped listening on port 33580
+1555099515011	Marionette	INFO	Stopped listening on port 33281
+1555099528756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zw28K3JyuUnP"
+1555099529144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099529144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099529144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099530575	Marionette	INFO	Listening on port 38380
+1555099530680	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099555566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q43l5WHmedTB"
+1555099556011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099556012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099556012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099557509	Marionette	INFO	Listening on port 43789
+1555099557579	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1555099595389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pfsdti6iToTm"
+1555099595820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099595821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099595821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099597122	Marionette	INFO	Listening on port 41056
+1555099597197	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099628665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RglxaKTX6LSv"
+1555099629092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099629093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099629093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099630735	Marionette	INFO	Listening on port 44279
+1555099630777	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555099679172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uX6muInrnvYs"
+1555099679574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099679574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099679575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099681045	Marionette	INFO	Listening on port 44843
+1555099681088	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099760006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fiZ381nYStb9"
+1555099760364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099760364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099760364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099761696	Marionette	INFO	Listening on port 44305
+1555099761720	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099816405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SHaBZkgqQs15"
+1555099816815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099816815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099816815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099818350	Marionette	INFO	Listening on port 46053
+1555099818425	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 23451, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555099972490	Marionette	INFO	Stopped listening on port 44279
+1555099972529	Marionette	INFO	Stopped listening on port 38380
+1555099972581	Marionette	INFO	Stopped listening on port 41056
+1555099972605	Marionette	INFO	Stopped listening on port 44843
+1555099972626	Marionette	INFO	Stopped listening on port 43789
+1555099972629	Marionette	INFO	Stopped listening on port 44305
+1555099972633	Marionette	INFO	Stopped listening on port 46053

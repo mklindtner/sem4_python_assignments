@@ -1,0 +1,104 @@
+1555089610491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v0Hg7kqWtg9G"
+1555089611092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555089611092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555089611092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555089612920	Marionette	INFO	Listening on port 37430
+1555089613053	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: , line 0: uncaught exception: 7
+[Parent 28646, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555089652480	Marionette	INFO	Stopped listening on port 37430
+1555091197165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.noMzl2DL3PdY"
+1555091197775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555091197775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555091197775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555091199403	Marionette	INFO	Listening on port 35908
+1555091199475	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:402:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+getMutations/<@resource://devtools/shared/fronts/inspector.js:402:7
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:455:11\ngetGrids@resource://devtools/server/actors/layout.js:460:38\ngetGrids@resource://devtools/server/actors/layout.js:460:38\nhandler@resource://devtools/shared/protocol.js:1206:21\nonPacket@resource://devtools/server/main.js:1286:15\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:5\n"
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 30102, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555091239814	Marionette	INFO	Stopped listening on port 35908
+1555099273182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G2WsibDRnt3x"
+1555099273619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099273620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099273620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099275149	Marionette	INFO	Listening on port 35571
+1555099275196	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 20436, MediaPlayback #1] WARNING: Decoder=7f4a91b57c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 20436, MediaPlayback #1] WARNING: Decoder=7f4a91b57c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+[Child 20436, MediaPlayback #2] WARNING: Decoder=7f4a960eb400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 350
+[Child 20436, MediaPlayback #2] WARNING: Decoder=7f4a960eb400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/dom/media/MediaDecoderStateMachine.cpp, line 3331
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555099366439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WefVmBzKeOrl"
+1555099367005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099367006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099367006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099368618	Marionette	INFO	Listening on port 39672
+1555099368663	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1555099431903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ViDaDAYHhmQ9"
+1555099432261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099432261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099432261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099433623	Marionette	INFO	Listening on port 36448
+1555099433718	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099486797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dIx6DbVY0Slt"
+1555099487251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099487251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099487251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099488836	Marionette	INFO	Listening on port 40677
+1555099488906	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 20614, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20614, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21251, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-jjM0Oy/firefox-66.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1555099514808	Marionette	INFO	Stopped listening on port 35571
+1555099514915	Marionette	INFO	Stopped listening on port 39672
+1555099514997	Marionette	INFO	Stopped listening on port 36448
+1555099515111	Marionette	INFO	Stopped listening on port 40677
+1555099859674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7ZV67oV3ulc8"
+1555099860090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1555099860090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1555099860090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1555099861499	Marionette	INFO	Listening on port 40079
+1555099861584	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1555099972688	Marionette	INFO	Stopped listening on port 40079
